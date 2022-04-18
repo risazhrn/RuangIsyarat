@@ -1,0 +1,156 @@
+*{
+    box-sizing: border-box;
+}
+
+.body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+h3{
+    padding-left: 30px;
+    
+}
+h4{
+    padding-left: 30px;
+}
+.card {
+    margin: 25px 30px;
+    border-radius: 20px;
+    /* position: absolute; */
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .1);
+    width: 369px;
+    height: 344px;
+}
+
+.g-katalog{
+    width: 311px;
+    height: 185px;
+    border-radius: 20px;
+}
+
+.body-card {
+    padding: 10px 15px;
+}
+
+.body-card p{
+    text-align: center;
+}
+
+.head-card {
+    padding: 20px 28px;
+    padding-bottom: 10px;
+}
+
+.selengkapnya{
+    padding-top: 40px;
+    text-align: center;
+}
+
+/* navbar */
+.navbar-brand {
+    font-family: 'EB Garamond', serif;
+}
+
+.navbar-brand img {
+    border-radius: 1000px;
+}
+
+.navbarkanan {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.blog {
+    font-weight: 700;
+}
+
+.login {
+    color: white;
+    background: #2d3c9f;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 80px;
+    height: 40px;
+}
+
+.register {
+    background: #CFE3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+    width: 80px;
+    height: 40px;
+    padding-right: 78px;
+}
+
+/* footer */
+.footer {
+    background-color: #1B1E32;
+    padding: 60px;
+}
+
+.img-brand img {
+    border: 1px solid white;
+}
+
+.desc-brand {
+    color: #F0F0F0;
+    margin: auto;
+    padding-left: 20px;
+
+}
+
+.desc-brand h3 {
+    font-family: 'EB Garamond',
+        serif;
+}
+
+.desc-brand p {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.contact,
+.informasi,
+.explore h3 {
+    font-family: 'EB Garamond',
+        serif;
+    color: #F0F0F0;
+}
+
+.contact,
+.informasi,
+.explore {
+    margin-left: 70px;
+
+
+}
+
+.contact h3 {
+    padding-bottom: 20px;
+}
+
+.contact p {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.ikon {
+    padding-right: 10px;
+}
+
+.informasi a,
+.explore a {
+    text-decoration: none;
+    color: #F0F0F0;
+    font-family: 'Montserrat',
+        sans-serif;
+}
