@@ -1,0 +1,262 @@
+.bg {
+    background-color: #F0F0F0;
+    height: 800px;
+}
+
+.navbar-brand {
+    font-family: 'EB Garamond', serif;
+}
+
+.navbar-brand img {
+    border-radius: 1000px;
+}
+
+.navbarkanan {
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.blog {
+    margin-right: 10px;
+    font-weight: 700;
+}
+
+.home {
+    font-weight: 700;
+}
+
+.kelas {
+    font-weight: 700;
+}
+
+.login {
+    color: white;
+    background: #1B1E32;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+}
+
+.register {
+    background: #CFE3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    padding-right: 78px;
+}
+
+.register:hover {
+    background: #F0F0F0;
+    color: #1B1E32;
+    border-color: #1B1E32;
+}
+
+.login:hover {
+    background: #F0F0F0;
+    color: #1B1E32;
+    border-color: #1B1E32;
+}
+
+.btn-start {
+    background-color: #1B1E32;
+    color: #F0F0F0;
+    border-radius: 50px;
+    padding: 10px 35px 10px 35px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-start:hover {
+    background: #F0F0F0;
+    color: #1B1E32;
+}
+
+
+.slogan {
+    text-align: center;
+    margin: auto;
+}
+
+.slogan h2 {
+    font-family: 'EB Garamond',
+        serif;
+    margin-bottom: 20px;
+}
+
+.slogan p {
+    font-family: 'Montserrat',
+        sans-serif;
+    margin-bottom: 20px;
+}
+
+.start {
+    margin-bottom: 20px;
+}
+
+
+.artikel .card {
+    border-radius: 20px 20px 20px 20px;
+    padding: 20px;
+    background-color: #1B1E32;
+    margin: 10px;
+    margin-bottom: 40px;
+    box-shadow: 10px 15px 10px rgba(0, 0, 0, 0.25);
+}
+
+.card-title {
+    color: #F0F0F0;
+    font-family: 'EB Garamond',
+        serif;
+    text-align: center;
+
+}
+
+.card-body button {
+    background: #F0F0F0;
+    padding: 10px 50px 10px 50px;
+    border-radius: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.card-body button:hover {
+    background: #1B1E32;
+    color: #F0F0F0;
+}
+
+.card-body {
+    margin: auto;
+
+}
+
+
+.what .card {
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    margin: 50px 10px 60px 20px;
+    box-shadow: 10px 15px 10px rgba(0, 0, 0, 0.25);
+}
+
+.img-what img {
+    width: 250px;
+}
+
+.desc-what {
+    margin-left: 40px;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.desc-what h3 {
+    font-family: 'EB Garamond',
+        serif;
+    padding-bottom: 20px;
+}
+
+.desc-what p {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.testimonials {
+    background-color: #F0F0F0;
+    padding: 50px;
+}
+
+.testimonials .container h3 {
+    font-family: 'EB Garamond',
+        serif;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.fa-star {
+    color: rgb(248, 248, 108);
+}
+
+hr {
+    border: 1px solid #1B1E32;
+    width: 400px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.testi .card {
+    margin: 50px 10px 40px 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+}
+
+.card-body {
+    text-align: center;
+}
+
+
+.footer {
+    background-color: #1B1E32;
+    padding: 60px;
+}
+
+.img-brand img {
+    border: 1px solid white;
+}
+
+.desc-brand {
+    color: #F0F0F0;
+    margin: auto;
+    padding-left: 20px;
+
+}
+
+.desc-brand h3 {
+    font-family: 'EB Garamond',
+        serif;
+}
+
+.desc-brand p {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.contact,
+.informasi,
+.explore h3 {
+    font-family: 'EB Garamond',
+        serif;
+    color: #F0F0F0;
+}
+
+.contact,
+.informasi,
+.explore {
+    margin-left: 70px;
+
+
+}
+
+.contact h3 {
+    padding-bottom: 20px;
+}
+
+.contact p {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.ikon {
+    padding-right: 10px;
+}
+
+.informasi a,
+.explore a {
+    text-decoration: none;
+    color: #F0F0F0;
+    font-family: 'Montserrat',
+        sans-serif;
+}
