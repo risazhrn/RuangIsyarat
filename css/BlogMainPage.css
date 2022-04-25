@@ -92,7 +92,8 @@
 
 .post-body h5 {
     text-align: center;
-    padding-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     font-family: 'EB Garamond', serif;
     font-weight: 700;
 }
