@@ -1,0 +1,108 @@
+/* TNavbar kiri (Logo + Ruang Isyarat) */
+.navbar-brand {
+    font-family: 'EB Garamond', serif;
+}
+
+/* Logo Ruang Isyarat */
+.navbar-brand img {
+    border-radius: 1000px;
+}
+
+/* Menu navbar kanan */
+.navbarkanan {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Menu Home */
+.home {
+    font-weight: 700;
+}
+
+/* Menu Kelas */
+.kelas {
+    font-weight: 700;
+}
+
+
+/* Menu Blog */
+.blog {
+    font-weight: 700;
+    margin-right: 10px;
+}
+
+/* Button Login */
+.login {
+    color: white;
+    background: #1B1E32;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+}
+
+.login:hover {
+    background: #F0F0F0;
+    color: #1B1E32;
+    border-color: #1B1E32;
+}
+
+
+/* Button register */
+.register {
+    background: #CFE3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    padding-right: 78px;
+}
+
+.register:hover {
+    background: #F0F0F0;
+    color: #1B1E32;
+    border-color: #1B1E32;
+}
+
+.mainblog h3 {
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+}
+
+.mainblog p {
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+/* CSS Blog */
+
+.otherblog {
+    margin-top: 30px;
+}
+
+.post {
+    margin-bottom: 40px;
+}
+
+.post .post-img>img {
+    width: 100%;
+}
+
+.post-body h5 {
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: 'EB Garamond', serif;
+    font-weight: 700;
+}
+
+.post .post-meta {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+
+}
